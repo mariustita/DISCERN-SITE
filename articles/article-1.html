@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- Default language -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-lang-key="article1_full_title">Article Title One - DISCERN</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+
+<header>
+    <nav class="container"> <!-- Removed has-mobile-menu class -->
+        <div class="logo" data-lang-key="business_name">DISCERN</div>
+
+        <!-- Mobile Menu Toggle Button -->
+        <button id="menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+            <i class="fas fa-bars" aria-hidden="true"></i>
+        </button>
+
+        <!-- Navigation Links - Combined Desktop/Mobile Logic (JS/CSS will handle visibility) -->
+        <ul>
+            <li><a href="../index.html" data-lang-key="nav_home">Home</a></li>
+            <li><a href="../index.html#about" data-lang-key="nav_about">About</a></li>
+            <li><a href="../index.html#services" data-lang-key="nav_services">Services</a></li>
+            <li><a href="../articles.html" data-lang-key="nav_articles">Articles</a></li>
+            <li><a href="../index.html#contact" data-lang-key="nav_contact">Contact</a></li>
+            <li><a href="../index.html#location" data-lang-key="nav_location">Location</a></li>
+        </ul>
+
+        <!-- Header Extras (Phone Icon, Language Switcher) - Hidden on Mobile by CSS -->
+        <div class="header-extras">
+            <div class="phone-container">
+                <a href="#" id="open-phone-popup" class="open-phone-popup-trigger" title="Show Phone Number">
+                    <i class="fas fa-phone"></i>
+                </a>
+            </div>
+            <div class="language-switcher">
+                <a href="#" class="lang-switch active" data-lang="en">EN</a> |
+                <a href="#" class="lang-switch" data-lang="ro">RO</a>
+            </div>
+        </div>
+
+        <!-- REMOVED explicit mobile-menu-container -->
+
+    </nav>
+</header>
+
+<main class="page-main-content">
+    <section class="full-article-content content-section">
+        <div class="container">
+            <a href="../articles.html" class="back-link" data-lang-key="back_to_articles">← Back to Articles</a>
+            <h1 data-lang-key="article1_title">Article Title One</h1>
+            <img src="../images/article1-thumb.webp" alt="Placeholder image for Article 1" class="full-article-image">
+            <div class="article-text" data-lang-key="article1_full_text">
+                <p>This is the beginning of the first article's text. It discusses interesting concepts and provides valuable insights. We explore the topic in depth.</p> <p>Line 2: Adding more detail here to expand on the initial points made in the summary.</p> <p>Line 3: We continue the discussion, bringing in supporting evidence or examples.</p> <p>Line 4: This part elaborates further on a specific aspect mentioned earlier.</p> <p>Line 5: The narrative progresses, building upon the previous paragraphs.</p> <p>Line 6: Here we might introduce a counter-argument or a different perspective.</p> <p>Line 7: Exploring the nuances and complexities of the subject matter.</p> <p>Line 8: Providing more context or background information for better understanding.</p> <p>Line 9: Connecting the current point back to the main theme of the article.</p> <p>Line 10: This paragraph could focus on practical applications or implications.</p> <p>Line 11: Offering specific examples or case studies to illustrate the points.</p> <p>Line 12: Summarizing a key section or argument within the article.</p> <p>Line 13: Transitioning towards the conclusion or final thoughts.</p> <p>Line 14: Reinforcing the main message or takeaway for the reader.</p> <p>Line 15: The concluding sentence wraps up the article, perhaps suggesting further reading or action.</p>
+            </div>
+            <a href="../articles.html" class="back-link bottom" data-lang-key="back_to_articles">← Back to Articles</a>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="container"> <p data-lang-key="footer_text">© 2023 DISCERN. All Rights Reserved.</p> </div>
+</footer>
+
+<div id="phone-popup-overlay" class="popup-overlay">
+    <div id="phone-popup-content" class="popup-content"> <button id="close-popup-btn" class="close-btn" title="Close">×</button> <h2 data-lang-key="popup_phone_title">Our Contact Number:</h2> <p class="popup-phone-number">0040-749213663</p> </div>
+</div>
+
+<script src="../js/script.js" defer></script>
+</body>
+</html>
