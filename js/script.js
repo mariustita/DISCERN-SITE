@@ -331,7 +331,7 @@ document.addEventListener('DOMContentLoaded', () => {
             form_fill_all: "Vă rugăm să completați corect toate câmpurile.",
             location_title: "Locația Noastră",
             location_hours: "Program:",
-            footer_text: "© 2025 DISCERN. Toate Drepturile Rezervate.",
+            footer_text: "© 2026 DISCERN. Toate Drepturile Rezervate.",
             popup_phone_title: "Numărul nostru de contact:",
             articles_page_title: "Articole - DISCERN",
             articles_title: "Ultimele Articole",
