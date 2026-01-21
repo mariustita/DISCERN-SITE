@@ -338,6 +338,38 @@ document.addEventListener('DOMContentLoaded', () => {
                 </ul>
                 <p>If you have recently felt that your business is "harder" than it should be, or that your team is frustrated by internal bureaucracy, you are most likely suffering from massive Operational Debt.</p>
                 <p><strong>Don't let weak processes steal your profit!</strong></p>`,
+
+            //Article 6
+                article6_title: "The complexity ceiling: Why \"working harder\" is not the solution for scaling",
+                article6_summary_short: "There is a dangerous moment in the evolution of any company or department: the moment when enthusiasm and individual effort are no longer enough.",
+                article6_full_title: "The Complexity Ceiling: Why 'Working Harder' is Not the Solution - DISCERN",
+                article6_full_text: `
+                    <p>There is a dangerous moment in the evolution of any company or department: the moment when enthusiasm and individual effort are no longer enough.</p>
+                    <p>Many managers and entrepreneurs believe that if they reached a certain level of success through total personal involvement, the solution to get to the next level is simply... more involvement. But the reality is counter-intuitive: <strong>What got you here is exactly what is preventing you from moving forward.</strong></p>
+
+                    <h3>The Founder's trap (or the "Hero" manager)</h3>
+                    <p>When you are involved in every decision, you become the biggest bottleneck of your own organization. If your team cannot move forward without your approval, you do not have a scalable business, you have an extremely demanding job.</p>
+                    <p>This is the "Technician’s trap": you are so good at what you do that you don't have time to build the system that would do the work for you.</p>
+
+                    <h3>What is the Complexity Ceiling?</h3>
+                    <p>Every process has a breaking point.</p>
+                    <ul>
+                        <li>A process based on "let's touch base on a call" works for 5 people.</li>
+                        <li>At 15 people, the first cracks appear.</li>
+                        <li>At 50 people, total chaos sets in.</li>
+                    </ul>
+                    <p>Without a clear Process Architecture, an increased workload does not bring more profit, it only brings more inefficiency and stress. Profit leaks through the cracks of an improvised organization.</p>
+
+                    <h3>Shifting from "Key People" to "Key Systems"</h3>
+                    <p>Companies that scale successfully (the ones we see raising funding rounds on platforms like SeedBlink) have understood a simple secret: Freedom and profit come from rigor, not improvisation.</p>
+                    <p>The solution is not to hire "better people" in the hope that they will fix the chaos. The solution is to build a System where ordinary people can produce extraordinary results, predictably.</p>
+                    <ul>
+                        <li><strong>Discipline:</strong> Project Management is not bureaucracy, it is a navigation map.</li>
+                        <li><strong>Automation:</strong> This is not a technological whim, but the way you eliminate human error from repetitive tasks.</li>
+                    </ul>
+                    <p>If you feel like you are the only one "pulling" or that your team has reached its limit, you don't need more coffee or more hours at the office. You need a Process Architecture.</p>
+                    <p><strong>You must stop working IN your business and start working ON your business.</strong></p>`,
+
         },
         ro: {
             site_title: "DISCERN - Bun Venit",
@@ -467,6 +499,38 @@ document.addEventListener('DOMContentLoaded', () => {
                 </ul>
                 <p>Dacă ați simțit recent că afacerea dumneavoastră este "mai grea" decât ar trebui să fie sau că echipa dumneavoastră este frustrată de birocrația internă, cel mai probabil suferiți de o Datorie Operațională masivă.</p>
                 <p><strong>Nu lăsați procesele slabe să vă fure profitul!</strong></p>`,
+
+            //Article 6
+            article6_title: "Plafonul de complexitate: De ce \"mai multă muncă\" nu este soluția pentru scalare",
+                article6_summary_short: "Există un moment periculos în evoluția oricărei companii sau departament: momentul în care entuziasmul și efortul individual nu mai sunt suficiente.",
+                article6_full_title: "Plafonul de complexitate: De ce 'mai multă muncă' nu este soluția - DISCERN",
+                article6_full_text: `
+                    <p>Există un moment periculos în evoluția oricărei companii sau departament: momentul în care entuziasmul și efortul individual nu mai sunt suficiente.</p>
+                    <p>Mulți manageri și antreprenori cred că, dacă au ajuns la un anumit nivel de succes prin implicare totală, soluția pentru a trece la nivelul următor este pur și simplu... mai multă implicare. Dar realitatea este contra-intuitivă: <strong>Ceea ce te-a adus aici este exact ceea ce te împiedică să mergi mai departe.</strong></p>
+
+                    <h3>Capcana fondatorului (sau a managerului "Hero")</h3>
+                    <p>Când ești implicat în fiecare decizie, devii cel mai mare bottleneck (gâtuire) al propriei organizații. Dacă echipa ta nu poate avansa fără aprobarea ta, nu ai o afacere scalabilă, ci ai un job extrem de solicitant.</p>
+                    <p>Aceasta este "Capcana Tehnicianului": ești atât de bun la ceea ce faci, încât nu ai timp să construiești sistemul care să facă munca în locul tău.</p>
+
+                    <h3>Ce este Plafonul de Complexitate?</h3>
+                    <p>Fiecare proces are o limită de rezistență.</p>
+                    <ul>
+                        <li>Un proces bazat pe "ne auzim la un telefon" funcționează la 5 oameni.</li>
+                        <li>La 15 oameni, apar primele fisuri.</li>
+                        <li>La 50 de oameni, se instalează haosul total.</li>
+                    </ul>
+                    <p>Dacă nu ai o Arhitectură de Procese clară, creșterea volumului de muncă nu aduce mai mult profit, ci doar mai multă ineficiență și stres. Profitul se scurge prin fisurile unei organizări improvizate.</p>
+
+                    <h3>Trecerea de la "Oameni-cheie" la "Sisteme-cheie"</h3>
+                    <p>Companiile care scalează cu succes (cele pe care le vedem ridicând runde de finanțare pe platforme ca SeedBlink) au înțeles un secret simplu: Libertatea și profitul vin din rigoare, nu din improvizație.</p>
+                    <p>Soluția nu este să angajezi "oameni mai buni" sperând că vor rezolva ei haosul. Soluția este să construiești un Sistem în care oameni obișnuiți să poată produce rezultate extraordinare, în mod predictibil.</p>
+                    <ul>
+                        <li><strong>Disciplina:</strong> Managementul proiectelor nu este birocrație, este hartă de navigare.</li>
+                        <li><strong>Automatizarea:</strong> Nu este un moft tehnologic, ci modul în care elimini eroarea umană din sarcinile repetitive.</li>
+                    </ul>
+                    <p>Dacă simți că ești singurul care "trage" sau că echipa ta a ajuns la o limită de oboseală, nu ai nevoie de mai multă cafea sau de mai multe ore la birou. Ai nevoie de o Arhitectură de Procese.</p>
+                    <p><strong>Trebuie să încetezi să mai lucrezi ÎN afacerea ta și să începi să lucrezi LA afacerea ta.</strong></p>`,
+
         }
     };
 
