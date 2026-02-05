@@ -370,6 +370,35 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p>If you feel like you are the only one "pulling" or that your team has reached its limit, you don't need more coffee or more hours at the office. You need a Process Architecture.</p>
                     <p><strong>You must stop working IN your business and start working ON your business.</strong></p>`,
 
+                //Article 7
+                 article7_title: "The Hero Myth and the \"Irreplaceable Person\" Trap: Why Your Business is More Fragile Than You Think",
+                 article7_summary_short: "In our business culture, we tend to idolize the \"hero.\" It’s that employee who stays late, knows where every file is hidden, fixes every crisis with a single phone call, and without whom, frankly, everything would collapse.",
+                 article7_full_title: "The Hero Myth and the Irreplaceable Person Trap - DISCERN",
+                 article7_full_text: `
+                     <p>In our business culture, we tend to idolize the "hero." It’s that employee who stays late, knows where every file is hidden, fixes every crisis with a single phone call, and without whom, frankly, everything would collapse. Leaders take pride in these people. They call them "pillars".</p>
+                     <p>But in reality, these pillars hide a major structural crack. From the perspective of a Process Architect, an "irreplaceable person" is not an asset, they are a systemic risk.</p>
+
+                     <h3>The Illusion of Safety</h3>
+                     <p>When you have someone on your team who "knows it all" you feel safe. You feel like your business is covered. But this safety is an illusion. This is called <strong>Tribal Knowledge</strong> - vital information that exists only in the minds of individuals, not within the structure of the company.</p>
+                     <p>The real question isn’t "What do we do if George leaves?" but rather "Why does our business need George to be a genius every single day just to function?" If your success depends on the daily heroism of a few individuals, it means your processes are, in fact, failures masked by individual effort.</p>
+
+                     <h3>Why "Heroes" Can’t Scale</h3>
+                     <p>Suppose you’ve found the "ideal person" and you want to grow your business tenfold. Simplistic logic says: "I’ll just find ten more people like them."</p>
+                     <p>This is where the bottleneck appears. Exceptional people are rare, expensive, and hard to retain. A business that scales successfully isn't one that hunts for unicorns, it’s one that builds a system where ordinary people can produce extraordinary results consistently.</p>
+                     <p>Think of an orchestra. You don’t need ten brilliant conductors. You need an impeccably written score. That score is the <strong>Process Architecture</strong>.</p>
+
+                     <h3>From Tribal Knowledge to Institutional Asset</h3>
+                     <p>The mission we have taken on through DISCERN is to help leaders make a painful but necessary transition: transforming individual "magic" into clear methodology.</p>
+                     <ul>
+                         <li><strong>Standardization</strong> is not the enemy of creativity, it is its foundation.</li>
+                         <li><strong>Procedures</strong> are not bureaucracy, they are maps that free the brain from the burden of repetitive decisions.</li>
+                      </ul>
+                      <br></br>
+                     <h3>The Resilience Test</h3>
+                     <p>What happens if your three best people go on a one-month vacation tomorrow, without their phones? If the answer gives you a panic attack, it means you are paying a massive "interest rate" on your Operational Debt.</p>
+                     <p><strong>Build a Legacy, Not a Job.</strong> A true leader doesn't build an army of followers, but a system that can function and grow in their absence.</p>
+                 `,
+
         },
         ro: {
             site_title: "DISCERN - Bun Venit",
@@ -530,6 +559,38 @@ document.addEventListener('DOMContentLoaded', () => {
                     </ul>
                     <p>Dacă simți că ești singurul care "trage" sau că echipa ta a ajuns la o limită de oboseală, nu ai nevoie de mai multă cafea sau de mai multe ore la birou. Ai nevoie de o Arhitectură de Procese.</p>
                     <p><strong>Trebuie să încetezi să mai lucrezi ÎN afacerea ta și să începi să lucrezi LA afacerea ta.</strong></p>`,
+
+            //Article 7
+            article7_title: "Mitul Eroului și Capcana „Omului de Neînlocuit”: De ce afacerea ta este mai fragilă decât crezi",
+            article7_summary_short: "În cultura noastră de business, tindem să idolatrizăm „eroul”. Este acel angajat care stă până târziu, care știe unde se află fiecare fișier, care repară orice criză cu un singur telefon și fără de care totul s-ar prăbuși.",
+            article7_full_title: "Mitul Eroului și Capcana Omului de Neînlocuit - DISCERN",
+            article7_full_text: `
+                <p>În cultura noastră de business, tindem să idolatrizăm „eroul”. Este acel angajat care stă până târziu, care știe unde se află fiecare fișier, care repară orice criză cu un singur telefon și fără de care, sincer, totul s-ar prăbuși. Liderii se mândresc cu acești oameni. Îi numesc „piloni”.</p>
+                    <p>Dar, în realitate, acești piloni ascund o fisură structurală majoră. Din perspectiva unui arhitect de procese, un „om de neînlocuit” nu este un activ, ci un risc sistemic.</p>
+
+                    <h3>Iluzia Siguranței</h3>
+                    <p>Când ai în echipă pe cineva care „le știe pe toate”, te simți în siguranță. Ai impresia că afacerea ta este acoperită. Însă această siguranță este o iluzie. Aceasta se numește <strong>Cunoaștere Tribală</strong> – informații vitale care există doar în mintea unor indivizi, nu în structura companiei.</p>
+                    <p>Adevărata întrebare nu este „ce facem dacă George pleacă?”, ci „de ce afacerea noastră are nevoie ca George să fie un geniu în fiecare zi pentru a funcționa?”. Dacă succesul tău depinde de eroismul zilnic al unor oameni, înseamnă că procesele tale sunt, de fapt, eșecuri mascate de efort individual.</p>
+
+                    <h3>De ce „Eroii” nu pot scala</h3>
+                    <p>Să presupunem că ai găsit „omul ideal” și vrei să crești afacerea de zece ori. Logica simplistă spune: „Mai găsesc încă zece oameni ca el”.</p>
+                    <p>Aici apare blocajul. Oamenii excepționali sunt rari, scumpi și greu de reținut. O afacere care scalează cu succes nu este cea care vânează unicorni, ci cea care construiește un sistem în care oameni obișnuiți pot produce rezultate extraordinare în mod constant.</p>
+                    <p>Gândește-te la o orchestră. Nu ai nevoie de zece dirijori geniali. Ai nevoie de o partitură scrisă impecabil. Partitura este <strong>Arhitectura de Procese</strong>.</p>
+
+                    <h3>De la Cunoaștere Tribală la Activ Instituțional</h3>
+                    <p>Misiunea pe care ne-am asumat-o prin DISCERN este să ajutam liderii să facă o tranziție dureroasă, dar necesară: transformarea „magiei” individuale în metodologie clară.</p>
+                    <ul>
+                        <li><strong>Standardizarea</strong> nu este dușmanul creativității, ci fundația ei.</li>
+                        <li><strong>Procedurile</strong> nu sunt birocrație, ci sunt hărți care eliberează creierul de povara deciziilor repetitive.</li>
+                    </ul>
+                    <br></br>
+                    <h3>Testul de Reziliență</h3>
+                    <p>Ce se întâmplă dacă cei mai buni trei oameni ai tăi pleacă mâine într-o vacanță de o lună, fără telefon? Dacă răspunsul îți provoacă un atac de panică, înseamnă că plătești o „dobândă” uriașă la Datoria ta Operațională.</p>
+                    <p><strong>Construiește o Moștenire, nu un Job.</strong> Un lider adevărat nu construiește o armată de adepți care depind de el, ci un sistem care poate funcționa și crește în absența lui.</p>
+
+                    <p><strong>Nu mai căuta salvatori. Începe să construiești structuri. Libertatea ta, profitul tău și viitorul companiei tale nu stau în „cine” face munca, ci în „cum” este proiectată munca să fie făcută.</strong></p>
+                `
+
 
         }
     };
