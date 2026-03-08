@@ -396,8 +396,26 @@ document.addEventListener('DOMContentLoaded', () => {
                       <br></br>
                      <h3>The Resilience Test</h3>
                      <p>What happens if your three best people go on a one-month vacation tomorrow, without their phones? If the answer gives you a panic attack, it means you are paying a massive "interest rate" on your Operational Debt.</p>
-                     <p><strong>Build a Legacy, Not a Job.</strong> A true leader doesn't build an army of followers, but a system that can function and grow in their absence.</p>
-                 `,
+                     <p><strong>Build a Legacy, Not a Job.</strong> A true leader doesn't build an army of followers, but a system that can function and grow in their absence.</p>`,
+
+                // Article 8
+                article8_title: "Invisible Profit: Why Growth Doesn’t Always Mean More Money",
+                article8_summary_short: "There is a subtle trap that many entrepreneurs fall into during periods of rapid expansion: the mirage of top-line growth. Discover why profit vanishes into operational friction.",
+                article8_full_title: "Invisible Profit: Why Growth Doesn’t Always Mean More Money - DISCERN",
+                article8_full_text: `
+                    <p>There is a subtle trap that many entrepreneurs fall into during periods of rapid expansion: the mirage of top-line growth. There is a fundamental difference between a company that simply <strong>grows</strong>—accumulating more customers, more people, and more office space—and one that truly <strong>develops</strong>, successfully maintaining and even multiplying its profit margins as it scales.</p>
+
+                    <h3>The Trap of "Re-work"</h3>
+                    <p>In an organization where processes aren't architected but "guessed," a massive portion of the team’s energy is wasted correcting errors that should never have existed in the first place. This is "re-work"—a misdirected email, a misunderstanding between sales and execution, or a procedure invented on the fly because it was never documented.</p>
+
+                    <h3>Meetings: The Black Hole of Productivity</h3>
+                    <p>If your team requires endless daily meetings just to establish "who, what, and by when," you have a system problem, not a communication problem. In a healthy structure, information flow should be asynchronous and predictable. When you calculate the hourly cost of every person in that room, you quickly realize how expensive the lack of a clear operational architecture truly is.</p>
+
+                    <h3>Technology as a "Band-Aid"</h3>
+                    <p>Another frequent error is purchasing expensive software with the hope that it will organize the chaos. However, technology is an amplifier, not a healer. If your core processes are broken, a high-end CRM will only make those processes fail faster and at a larger scale.</p>
+
+                    <h3>How Do We Reclaim Lost Profit?</h3>
+                    <p>True efficiency doesn't come from drastic cost-cutting, but from optimizing the way work is designed. When you eliminate unnecessary steps, automate repetitive tasks, and clarify responsibilities, you are generating pure profit that goes directly to the bottom line.</p>`,
 
         },
         ro: {
@@ -588,9 +606,26 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p>Ce se întâmplă dacă cei mai buni trei oameni ai tăi pleacă mâine într-o vacanță de o lună, fără telefon? Dacă răspunsul îți provoacă un atac de panică, înseamnă că plătești o „dobândă” uriașă la Datoria ta Operațională.</p>
                     <p><strong>Construiește o Moștenire, nu un Job.</strong> Un lider adevărat nu construiește o armată de adepți care depind de el, ci un sistem care poate funcționa și crește în absența lui.</p>
 
-                    <p><strong>Nu mai căuta salvatori. Începe să construiești structuri. Libertatea ta, profitul tău și viitorul companiei tale nu stau în „cine” face munca, ci în „cum” este proiectată munca să fie făcută.</strong></p>
-                `
+                    <p><strong>Nu mai căuta salvatori. Începe să construiești structuri. Libertatea ta, profitul tău și viitorul companiei tale nu stau în „cine” face munca, ci în „cum” este proiectată munca să fie făcută.</strong></p>`,
 
+                // Article 8
+                article8_title: "Profitul Invizibil: De ce creșterea nu înseamnă mereu mai mulți bani",
+                article8_summary_short: "Există o capcană subtilă în care cad majoritatea antreprenorilor aflați în plină expansiune: mirajul cifrei de afaceri. Descoperă de ce profitul dispare în frecarea operațională.",
+                article8_full_title: "Profitul Invizibil: De ce creșterea nu înseamnă mereu mai mulți bani - DISCERN",
+                article8_full_text: `
+                    <p>Există o capcană subtilă în care cad majoritatea antreprenorilor aflați în plină expansiune: mirajul cifrei de afaceri. Există o diferență fundamentală între o companie care pur și simplu <strong>crește</strong> — adunând mai mulți clienți și mai mulți oameni — și una care se <strong>dezvoltă</strong>, reușind să își păstreze și să își multiplice marja de profit pe măsură ce scalează.</p>
+
+                    <h3>Capcana muncii făcute de două ori</h3>
+                    <p>Într-o organizație unde procesele nu sunt arhitecturate, ci „ghicite”, o mare parte din energia echipei se pierde în corectarea erorilor care nici n-ar fi trebuit să apară. Aceasta este „re-work-ul” — un e-mail trimis greșit, o neînțelegere între vânzări și execuție sau o procedură inventată pe loc pentru că nu a fost documentată niciodată.</p>
+
+                    <h3>Ședințele: Gaura neagră a productivității</h3>
+                    <p>Dacă echipa ta are nevoie de ședințe zilnice interminabile doar pentru a stabili „cine, ce și până când”, ai o problemă de sistem, nu de comunicare. Într-o structură sănătoasă, fluxul de informații trebuie să fie asincron și predictibil. Când calculezi costul orar al fiecărei persoane din acea sală, realizezi rapid cât de scumpă este lipsa unei arhitecturi operaționale clare.</p>
+
+                    <h3>Tehnologia ca un simplu „leucoplast”</h3>
+                    <p>O altă eroare frecventă este achiziționarea de software scump cu speranța că acesta va organiza haosul. Totuși, tehnologia este un amplificator, nu un vindecător. Dacă procesele tale de bază sunt defecte, un CRM de ultimă generație doar va face ca acele procese să eșueze mai rapid și la o scară mai mare.</p>
+
+                    <h3>Cum recuperăm profitul pierdut?</h3>
+                    <p>Adevărata eficientizare nu vine din tăieri drastice de costuri, ci din optimizarea modului în care munca este gândită. Atunci când elimini pașii inutili, automatizezi sarcinile repetitive și clarifici responsabilitățile, generezi profit pur care merge direct în bottom-line.</p>`,
 
         }
     };
